@@ -1,99 +1,88 @@
-![banner](gitignore/Banner.html.png) 
+![banner](gitignore/Banner.html.png)
 
-## About Me
+## Numerical Simulation & Computational Engineering
 
-- Developing computational engineering workflows using Python and scientific computing
-- Interested in aeroacoustics, transient thermal systems and simulation driven aerospace analysis
-- Exploring numerical methods, CFD workflows and engineering validation methodologies
-- Incoming Technical Publication Engineer at Capgemini
+Numerical simulation studies implemented using Python and finite-difference methods for aerospace-oriented engineering problems.
+
+Current repository work includes:
+- transient heat conduction studies
+- finite-difference discretization
+- timestep stability investigation
+- numerical behavior analysis
+- scientific visualization of simulation outputs
+- introductory CFD-related computational studies
 
 ---
 
-## Tools
+## Technical Stack
 
 <p align="left">
 
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white" />
-  
-  <!-- Scientific Computing -->
+
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
 
-  <!-- Simulation -->
   <img src="https://img.shields.io/badge/COMSOL-004B87?style=flat" />
-  <img src="https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat" />
-  <img src="https://img.shields.io/badge/ANSYS_CFX-FFB71B?style=flat" />
-
-  <!-- CAD -->
-  <img src="https://img.shields.io/badge/SolidWorks-D32F2F?style=flat" />
-  <img src="https://img.shields.io/badge/CATIA-005386?style=flat" />
 
 </p>
 
 ---
 
-## Featured Projects
+## Featured Repository
 
 ### CFD Numerical Solver
-Numerical solver for the unsteady 1D heat equation using finite difference methods with NumPy and Matplotlib.
 
-**Focus Areas**
-- Transient thermal analysis
-- Numerical discretization
-- Stability behavior
-- Scientific visualization
+Finite-difference implementation of the transient 1D heat equation using Python, NumPy, and Matplotlib.
+
+Current investigation areas:
+- explicit finite-difference schemes
+- transient conduction behavior
+- timestep sensitivity
+- numerical stability behavior
+- boundary condition implementation
+- simulation result visualization
+
+Current limitations:
+- explicit timestep restrictions
+- limited validation benchmarking
+- no mesh refinement studies yet
+- limited multidimensional implementation
+
+Planned extensions:
+- analytical solution comparison
+- convergence verification
+- implicit discretization schemes
+- higher-dimensional studies
 
 ---
 
-### Bus Booking System
-Python backend with MySQL integration for ride scheduling and booking workflows.
+## Ongoing Repository Development
 
-**Focus Areas**
-- Backend development
-- Database integration
-- Scheduling logic
-- Structured data workflows
-
----
-
-## Current Direction
-
-Currently building deeper capabilities in:
-- computational aerospace engineering
-- simulation-driven analysis
-- aeroacoustic systems
-- propulsion-adjacent engineering workflows
-
-while preparing for advanced aerospace research opportunities.
+Additional repository work is gradually expanding toward:
+- computational fluid dynamics
+- aeroacoustic analysis
+- numerical methods for PDEs
+- engineering validation studies
+- simulation-driven aerospace analysis
 
 ---
 
 ## Connect
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/hari-aravindh-aviation/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:your.hariaravindh04@gmail.com">
+  <a href="mailto:hariaravindh04@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focused_on-Aerospace_Simulation_&_Computational_Engineering-1f425f?style=flat-square" />
-</p>
+---
 
-<!--
-- ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hariaravindh/CloudDiffusion/ci.yml?style=flat-square&label=build&logo=github)
-- ![Coverage](https://img.shields.io/codecov/c/github/hariaravindh/CloudDiffusion?style=flat-square)
--->
-
- ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
- 
+![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
