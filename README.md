@@ -1,46 +1,107 @@
-<!-- ![Githubbanner](https://github.com/user-attachments/assets/010b56cb-d697-4d21-beb1-32832dc1ca42) -->
+< ![banner](YOUR_BANNER_IMAGE_URL) >
 
-<h1 align="center">  Hello there, I’m Hari Aravindh 👋  </h1>
-<h2 align="center"> Aeronautical Engineer working on AI-driven cloud formation models. </h2>
+<h1 align="center">Hari Aravindh S</h1>
+<h3 align="center">
+Aeronautical Engineering Graduate • Computational Engineering • Aeroacoustics
+</h3>
 
-
-
-##  About Me
-- Building **Diffusion models** for cloud formation using **PyTorch** & **Hugging Face**
-- Deploying forecasting microservices with **Flask** & **FastAPI**
-- Previously developed a **Bus-app** with **Python** & **MySQL** and a **CFD heat-equation solver** with **NumPy** & **Matplotlib**
+<p align="center">
+Focused on simulation-driven engineering, numerical methods, and propulsion-adjacent aerospace systems.
+</p>
 
 ---
 
-##  Technologies & Tools
+## About Me
+
+- Developing computational engineering workflows using Python and scientific computing
+- Interested in aeroacoustics, transient thermal systems, and simulation-driven aerospace analysis
+- Exploring numerical methods, CFD workflows, and engineering validation methodologies
+- Incoming Technical Publication Engineer at Capgemini
+
+---
+
+## Technologies & Tools
+
 <p align="left">
-  <!-- Current tools -->
-  <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/HuggingFace-orange?style=flat&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/FastAPI-blue?style=flat&logo=fastapi" />
-  <!-- Additional experience -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-F7931E?style=flat&logo=matplotlib" />
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=flat&logo=mathworks&logoColor=white" />
+  
+  <!-- Scientific Computing -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+
+  <!-- Simulation -->
+  <img src="https://img.shields.io/badge/COMSOL-004B87?style=flat" />
+  <img src="https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat" />
+  <img src="https://img.shields.io/badge/ANSYS_CFX-FFB71B?style=flat" />
+
+  <!-- CAD -->
+  <img src="https://img.shields.io/badge/SolidWorks-D32F2F?style=flat" />
+  <img src="https://img.shields.io/badge/CATIA-005386?style=flat" />
+
 </p>
-
-
-
-<!--
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariaravindh&show_icons=true&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hariaravindh&theme=dark)
--->
 
 ---
 
 ## Featured Projects
-- **CloudDiffusion** – PyTorch + Hugging Face diffusion for cloud‑formation prediction  
-- **Forecast‑API** – Flask/FastAPI microservices powering cloud forecast endpoints  
-- **Bus‑Backend** – Python backend + MySQL for ride scheduling  
-- **Heat‑CFD‑Solver** – Numerical solver for Unstaedy 1D heat equation using NumPy & Matplotlib
+
+### CFD Numerical Solver
+Numerical solver for the unsteady 1D heat equation using finite difference methods with NumPy and Matplotlib.
+
+**Focus Areas**
+- Transient thermal analysis
+- Numerical discretization
+- Stability behavior
+- Scientific visualization
+
+---
+
+### Bus Booking System
+Python backend with MySQL integration for ride scheduling and booking workflows.
+
+**Focus Areas**
+- Backend development
+- Database integration
+- Scheduling logic
+- Structured data workflows
+
+---
+
+## Current Direction
+
+Currently building deeper capabilities in:
+- computational aerospace engineering
+- simulation-driven analysis
+- aeroacoustic systems
+- propulsion-adjacent engineering workflows
+
+while preparing for advanced aerospace research opportunities.
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused_on-Aerospace_Simulation_&_Computational_Engineering-1f425f?style=flat-square" />
+</p>
 
 ---
 
