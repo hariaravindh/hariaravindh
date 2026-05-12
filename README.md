@@ -1,15 +1,5 @@
 ![banner](gitignore/Banner.html.png) 
 
-<h1 align="center">Hari Aravindh S</h1>
-<h3 align="center">
-</h3>
-
-<p align="center">
-Focused on simulation driven engineering, numerical methods and propulsion adjacent aerospace systems.
-</p>
-
----
-
 ## About Me
 
 - Developing computational engineering workflows using Python and scientific computing
@@ -19,7 +9,7 @@ Focused on simulation driven engineering, numerical methods and propulsion adjac
 
 ---
 
-## Technologies & Tools
+## Tools
 
 <p align="left">
 
