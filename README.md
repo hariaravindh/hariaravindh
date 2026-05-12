@@ -1,4 +1,4 @@
-< ![banner](YOUR_BANNER_IMAGE_URL) >
+< ![banner](gitignore/Banner.html.png) >
 
 <h1 align="center">Hari Aravindh S</h1>
 <h3 align="center">
