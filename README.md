@@ -1,4 +1,4 @@
-< ![banner](gitignore/Banner.html.png) >
+![banner](gitignore/Banner.html.png) 
 
 <h1 align="center">Hari Aravindh S</h1>
 <h3 align="center">
@@ -6,7 +6,7 @@ Aeronautical Engineering Graduate • Computational Engineering • Aeroacoustic
 </h3>
 
 <p align="center">
-Focused on simulation-driven engineering, numerical methods, and propulsion-adjacent aerospace systems.
+Focused on simulation driven engineering, numerical methods and propulsion adjacent aerospace systems.
 </p>
 
 ---
@@ -14,8 +14,8 @@ Focused on simulation-driven engineering, numerical methods, and propulsion-adja
 ## About Me
 
 - Developing computational engineering workflows using Python and scientific computing
-- Interested in aeroacoustics, transient thermal systems, and simulation-driven aerospace analysis
-- Exploring numerical methods, CFD workflows, and engineering validation methodologies
+- Interested in aeroacoustics, transient thermal systems and simulation driven aerospace analysis
+- Exploring numerical methods, CFD workflows and engineering validation methodologies
 - Incoming Technical Publication Engineer at Capgemini
 
 ---
@@ -84,7 +84,7 @@ while preparing for advanced aerospace research opportunities.
 ## Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hari-aravindh-aviation/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
@@ -92,7 +92,7 @@ while preparing for advanced aerospace research opportunities.
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:your.hariaravindh04@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -102,12 +102,6 @@ while preparing for advanced aerospace research opportunities.
 <p align="center">
   <img src="https://img.shields.io/badge/Focused_on-Aerospace_Simulation_&_Computational_Engineering-1f425f?style=flat-square" />
 </p>
-
----
-
-##  Lets Connect !
-- ✉️ [Email](mailto:your.hariaravindh04@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hari-aravindh-aviation/)
 
 ---
 
