@@ -2,7 +2,6 @@
 
 <h1 align="center">Hari Aravindh S</h1>
 <h3 align="center">
-Aeronautical Engineering Graduate • Computational Engineering • Aeroacoustics
 </h3>
 
 <p align="center">
@@ -97,19 +96,14 @@ while preparing for advanced aerospace research opportunities.
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focused_on-Aerospace_Simulation_&_Computational_Engineering-1f425f?style=flat-square" />
 </p>
-
----
 
 <!--
 - ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/hariaravindh/CloudDiffusion/ci.yml?style=flat-square&label=build&logo=github)
 - ![Coverage](https://img.shields.io/codecov/c/github/hariaravindh/CloudDiffusion?style=flat-square)
 -->
 
- 
  ![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
  
