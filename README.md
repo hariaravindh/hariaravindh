@@ -2,7 +2,7 @@
 
 ## Numerical Simulation & Computational Engineering
 
-Numerical simulation studies implemented using Python and finite-difference methods for aerospace-oriented engineering problems.
+Numerical simulation studies implemented using Python and finite-difference methods for aerospace oriented engineering problems.
 
 Current repository work includes:
 - transient heat conduction studies
@@ -10,7 +10,7 @@ Current repository work includes:
 - timestep stability investigation
 - numerical behavior analysis
 - scientific visualization of simulation outputs
-- introductory CFD-related computational studies
+- introductory CFD related computational studies
 
 ---
 
@@ -34,7 +34,7 @@ Current repository work includes:
 
 ### CFD Numerical Solver
 
-Finite-difference implementation of the transient 1D heat equation using Python, NumPy, and Matplotlib.
+Finite-difference implementation of the transient 1D heat equation using Python, NumPy and Matplotlib.
 
 Current investigation areas:
 - explicit finite-difference schemes
@@ -54,7 +54,7 @@ Planned extensions:
 - analytical solution comparison
 - convergence verification
 - implicit discretization schemes
-- higher-dimensional studies
+- higher dimensional studies
 
 ---
 
@@ -65,7 +65,7 @@ Additional repository work is gradually expanding toward:
 - aeroacoustic analysis
 - numerical methods for PDEs
 - engineering validation studies
-- simulation-driven aerospace analysis
+- simulation driven aerospace analysis
 
 ---
 
