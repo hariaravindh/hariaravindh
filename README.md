@@ -44,12 +44,6 @@ Current investigation areas:
 - boundary condition implementation
 - simulation result visualization
 
-Current limitations:
-- explicit timestep restrictions
-- limited validation benchmarking
-- no mesh refinement studies yet
-- limited multidimensional implementation
-
 Planned extensions:
 - analytical solution comparison
 - convergence verification
@@ -64,8 +58,7 @@ Additional repository work is gradually expanding toward:
 - computational fluid dynamics
 - aeroacoustic analysis
 - numerical methods for PDEs
-- engineering validation studies
-- simulation driven aerospace analysis
+- data models & Simulation
 
 ---
 
